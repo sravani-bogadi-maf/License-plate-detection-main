@@ -1,0 +1,7 @@
+path: /Users/sravanibogadi/Downloads/license-plate-detection-main
+train: ./train/images
+val: ./valid/images
+
+# Classes
+names:
+  0: license_plate
